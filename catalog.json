@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-23T14:22:18.212Z",
+  "apps": [
+    {
+      "id": "ai-security-battle",
+      "name": "AI Security Battle",
+      "description": "내 컴퓨터에서 돌아가는 웹 앱을 허락한 범위 안에서만 시험하고, 그 과정을 공격대와 방어선이 맞붙는 작은 게임으로 보여 줘요. 시험 결과는 증거로 확인된 것만 알려 주고, 고칠 방법도 제안해요.",
+      "icon": "https://raw.githubusercontent.com/royjhan09/app-store/main/icons/ai-security-battle.png",
+      "version": "0.7.0",
+      "installer": {
+        "name": "ai-security-battle-0.7.0-setup.exe",
+        "url": "https://github.com/royjhan09/app-store/releases/download/ai-security-battle-v0.7.0/ai-security-battle-0.7.0-setup.exe",
+        "size": 122789313,
+        "sha256": "702666d6f10eb07034b942f0c1b985f87b561ed0ce6bdc5422a4cf591db0b2c2"
+      },
+      "notes": null,
+      "publishedAt": "2026-11-23T14:22:18.212Z"
+    }
+  ]
+}
