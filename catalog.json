@@ -1,21 +1,21 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-23T15:00:38.031Z",
+  "updatedAt": "2026-11-24T08:26:28.177Z",
   "apps": [
     {
       "id": "admin-app",
       "name": "Admin App",
       "description": "설치한 컴퓨터에서 마켓에 올라온 앱을 설치하고 업데이트하는 Admin App이에요.",
       "icon": "https://raw.githubusercontent.com/royjhan09/app-store/main/icons/admin-app.png",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "installer": {
-        "name": "Admin App Setup 0.2.0.exe",
-        "url": "https://github.com/royjhan09/app-store/releases/download/admin-app-v0.2.0/Admin.App.Setup.0.2.0.exe",
-        "size": 121209611,
-        "sha256": "18ad047cf4ca69b985101b72061f705d95ab43f6773eb588a93e0e389087cbb9"
+        "name": "Admin App Setup 0.2.1.exe",
+        "url": "https://github.com/royjhan09/app-store/releases/download/admin-app-v0.2.1/Admin.App.Setup.0.2.1.exe",
+        "size": 121210766,
+        "sha256": "1105bdf0be377c630d9dc80b5b3be89060dc0521a056baa3b063d7a251826a89"
       },
       "notes": null,
-      "publishedAt": "2026-11-23T15:00:38.031Z"
+      "publishedAt": "2026-11-24T08:26:28.177Z"
     },
     {
       "id": "ai-security-battle",
