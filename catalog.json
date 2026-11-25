@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25T09:36:27.715Z",
+  "updatedAt": "2026-11-25T10:53:18.474Z",
   "apps": [
     {
       "id": "admin-app",
@@ -31,6 +31,21 @@
       },
       "notes": null,
       "publishedAt": "2026-11-23T14:22:18.212Z"
+    },
+    {
+      "id": "career-workspace",
+      "name": "Career Workspace",
+      "description": "내 경력과 자료를 커리어 풀에 모아 두고, 그걸 바탕으로 나에게 맞는 커리어 경로와 채용 공고를 찾고, 지원서와 포트폴리오를 AI와 함께 준비하는 데스크톱 앱이에요.",
+      "icon": "https://raw.githubusercontent.com/royjhan09/app-store/main/icons/career-workspace.png",
+      "version": "1.12.2",
+      "installer": {
+        "name": "career-workspace-1.12.2-setup.exe",
+        "url": "https://github.com/royjhan09/app-store/releases/download/career-workspace-v1.12.2/career-workspace-1.12.2-setup.exe",
+        "size": 157298759,
+        "sha256": "059aa46302a92a7d72e42dca451c6f346160e52b45dd6162beb4fa048233ae22"
+      },
+      "notes": null,
+      "publishedAt": "2026-11-25T10:53:18.474Z"
     }
   ]
 }
